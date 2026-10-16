@@ -16,6 +16,8 @@
 
 GitHub Pages: https://Boss921832137.github.io/kr2-bootstrap-shop/
 
+Репозиторий: https://github.com/Boss921832137/kr2-bootstrap-shop
+
 ## Используемый фреймворк
 
 Bootstrap 5.3.8.
